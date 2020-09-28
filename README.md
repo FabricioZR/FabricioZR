@@ -7,13 +7,6 @@
 <h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 
 <hr>
-*****
-
-| [Ferramentas](#languages) | [Estatísticas do GitHub](#stats) |
-| ------------------------- | -------------------------------- |
-
-
----
 
 <div id='languages' />
 
