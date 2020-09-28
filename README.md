@@ -4,6 +4,8 @@
 
 <a href="https://www.instagram.com/fabricioromanii/" target="blank">INSTAGRAM</a> <br>
 
+<hr>
+
 <h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 
 <hr>
@@ -20,11 +22,13 @@
 > <img src="https://img.icons8.com/color/48/000000/javascript.png" alt=CSS width="30">
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" alt=CSS width="30">
 
+<hr>
+
 <div id='stats' />
 
 ## Estatísticas do GitHub
 
-[![Status do Github]
-(https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark)](https://github.com/FabricioZR/github-readme-stats)
+[![FabricioZR github stats](https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark)](https://github.com/FabricioZR/github-readme-stats)
+
 [![Linguagens mais usadas]
 (https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/FabricioZR/github-readme-stats)
