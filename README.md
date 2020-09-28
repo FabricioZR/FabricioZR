@@ -1,5 +1,5 @@
 <h2>Fabrício Romani</h2>
-<img src="https://media4.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif?cid=ecf05e47i2trtd0vm2ut6h09wzrag2r5y0dkawk6h3h439io&rid=giphy.gif" align="right" height="350px">
+<img src="https://media4.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif?cid=ecf05e47i2trtd0vm2ut6h09wzrag2r5y0dkawk6h3h439io&rid=giphy.gif" align="right" height="180px" width="400px">
 <h6>Toda manhã é uma nova oportunidade, de voltar para a cama!</h6>
 
 <a href="https://www.instagram.com/fabricioromanii/" target="blank"><strong>INSTAGRAM</strong></a> <br>
