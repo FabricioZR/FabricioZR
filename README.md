@@ -22,8 +22,6 @@
 > <img src="https://img.icons8.com/color/48/000000/javascript.png" alt=CSS width="30">
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" alt=CSS width="30">
 
-<hr>
-
 <div id='stats' />
 
 ## Estatísticas do GitHub
