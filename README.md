@@ -4,6 +4,8 @@
 
 <a href="https://www.instagram.com/fabricioromanii/" target="blank"><strong>INSTAGRAM</strong></a> <br>
 
+<hr>
+
 <h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 
 <hr>
@@ -20,7 +22,6 @@
 > <img src="https://img.icons8.com/color/48/000000/javascript.png" alt=CSS width="30">
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" alt=CSS width="30">
 
-<br>
 <br>
 <div id='stats' />
 
