@@ -28,7 +28,7 @@
 ## Estatísticas do GitHub
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark"
-    height=130 />
+   height="220px" width="400px"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact"
-    height=130 />
+   height="220px" width="400px" />
