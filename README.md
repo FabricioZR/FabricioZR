@@ -8,10 +8,10 @@
 
 <hr>
 
-
 <div id='languages' />
 
 ## 👨‍💻 Linguagens e ferramentas que conheço
+
 > <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt=Python width="30">
 > <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt=C width="30">
 > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt=Java width="30">
@@ -25,8 +25,10 @@
 <div id='stats' />
 
 ## Estatísticas do GitHub
+
 [![Status do Github]
-(https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark)](https://github.com/FabricioZR/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark"
+    height=130 />]
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact"
     height=130 />
