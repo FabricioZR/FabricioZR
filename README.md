@@ -34,6 +34,6 @@
 
 <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
-    height="200px" width="400px" />
+    height="250px" width="400px" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark"
     height="250px" width="400px" />
