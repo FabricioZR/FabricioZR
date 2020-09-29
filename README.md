@@ -3,7 +3,7 @@
     align="right" height="180px" width="400px">
 <h6>Toda manhã é uma nova oportunidade, de voltar para a cama!</h6>
 
-<img href="https://www.instagram.com/fabricioromanii/" src="./insta.png" width="40px" height="40px"> <br>
+<img href="https://www.instagram.com/fabricioromanii/" src="./insta.png" width="40px" height="40px">
 
 <hr>
 
