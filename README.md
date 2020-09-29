@@ -1,13 +1,13 @@
 <h2>Fabrício Romani</h2>
-<img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif"
+<img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" title="Um gif muito foda do Rick"
     align="right"  width="300px">
 <h6>Toda manhã é uma nova oportunidade, de voltar para a cama!</h6>
 
-<a href="https://www.instagram.com/fabricioromanii/" target="_blank"><img src="./insta.png" width="40px"
+<a href="https://www.instagram.com/fabricioromanii/" target="_blank"><img src="./insta.png" title="Instagram" width="40px"
         height="40px"></a>
-<a href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" target="_blank"><img src="./linkedin.png" width="40px"
+<a href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" target="_blank"><img src="./linkedin.png" title="Linkedin" width="40px"
         height="40px"></a>
-<a href="https://github.com/FabricioZR" target="_blank"><img src="./github.png" width="40px"
+<a href="https://github.com/FabricioZR" target="_blank"><img src="./github.png" title="Github" width="40px"
         height="40px"></a>
 
 <hr>
@@ -34,7 +34,7 @@
 ## Estatísticas do GitHub
 
 <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark" title="Quais ferramentas eu mais uso"
     height="260px" width="400px" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark"
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" title="Status do Github"
     height="250px" width="400px" />
