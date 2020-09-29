@@ -5,6 +5,10 @@
 
 <a href="https://www.instagram.com/fabricioromanii/" target="_blank"><img src="./insta.png" width="40px"
         height="40px"></a>
+<a href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" target="_blank"><img src="./linkedin.png" width="40px"
+        height="40px"></a>
+<a href="https://github.com/FabricioZR" target="_blank"><img src="./github.png" width="40px"
+        height="40px"></a>
 
 <hr>
 
@@ -24,14 +28,13 @@
 > <img src="https://img.icons8.com/color/48/000000/javascript.png" alt=CSS width="30">
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" alt=CSS width="30">
 
-<br>
 <div id='stats' />
 
 ## Estatísticas do GitHub
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark"
-    height="220px" width="400px" />
+    height="250px" width="430px" />
 
 <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
-    height="220px" width="400px" />
+    height="250px" width="430px" />
