@@ -1,39 +1,36 @@
 <h2>Fabrício Romani</h2>
 <img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" title="Um gif muito foda do Rick Sanchez!"
-        align="right" width="300px">
+    align="right"  width="300px">
 <h6>Toda manhã é uma nova oportunidade, de voltar para a cama!</h6>
 
-<a href="https://www.instagram.com/fabricioromanii/" ><img src="./imagens/insta.png" title="Instagram"
-                width="40px" height="40px"></a>
-<a href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" ><img src="./imagens/linkedin.png"
-                title="Linkedin" width="40px" height="40px"></a>
-<a href="https://github.com/FabricioZR"><img src="./imagens/github.png" title="Github" width="40px"
-                height="40px"></a>
+<a href="https://www.instagram.com/fabricioromanii/" target="_blank"><img src="./insta.png" title="Instagram" width="40px"
+        height="40px"></a>
+<a href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" target="_blank"><img src="./linkedin.png" title="Linkedin" width="40px"
+        height="40px"></a>
+<a href="https://github.com/FabricioZR" target="_blank"><img src="./github.png" title="Github" width="40px"
+        height="40px"></a>
 
 <hr>
 
-<h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank">FronteiraTec</a>!</h3>
+<h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank">FronteiraTec</a></h3>
 
 <hr>
 
-## 👨‍💻 Linguagens e ferramentas que conheço:
+## 👨‍💻 Linguagens e ferramentas que conheço
 
-> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" title="Python" alt=Python
-
-        width="30">
-
+> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" title="Python" alt=Python width="30">
 > <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt=C width="30">
 > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt=Java width="30">
 > <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" alt=HTML5 width="30">
 > <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" alt=CSS width="30">
 > <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Java Script" alt=JS width="30">
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" alt=FLUTTER width="30">
-> <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30">
+> <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30" >
 
-## 🧮 Estatísticas do GitHub:
+## 🧮 Estatísticas do GitHub
 
 <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
-        title="Quais ferramentas eu mais uso" height="260px" width="400px" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark"
-        title="Status do Github" height="250px" width="400px" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark" title="Quais ferramentas eu mais uso"
+    height="260px" width="400px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" title="Status do Github"
+    height="250px" width="400px" />
