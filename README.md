@@ -3,11 +3,12 @@
     align="right" height="180px" width="400px">
 <h6>Toda manhã é uma nova oportunidade, de voltar para a cama!</h6>
 
-<img href="https://www.instagram.com/fabricioromanii/" src="./insta.png" width="40px" height="40px">
+<a href="https://www.instagram.com/fabricioromanii/" target="_blank"><img src="./insta.png" width="40px"
+        height="40px"></a>
 
 <hr>
 
-<h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
+<h3>Atulmente integrante da <a href="https://github.com/FronteiraTec" target="_blank">FronteiraTec</a></h3>
 
 <hr>
 
@@ -31,5 +32,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark"
     height="220px" width="400px" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
+<img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
     height="220px" width="400px" />
