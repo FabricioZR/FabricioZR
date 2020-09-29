@@ -37,4 +37,4 @@
 
 <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
-    height="250px" width="420px" />
+    height="250px" width="400px" />
