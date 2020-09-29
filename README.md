@@ -12,7 +12,7 @@
 
 <hr>
 
-<h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank">FronteiraTec</a>!</h3>
+<h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a>!</h3>
 
 <hr>
 
@@ -26,8 +26,6 @@
 > <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Java Script" alt=JS width="30">
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" alt=FLUTTER width="30">
 > <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30" >
-
-<br>
 
 ## 🧮 Estatísticas do GitHub:
 
