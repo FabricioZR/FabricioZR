@@ -16,6 +16,7 @@
 
 <hr>
 <br>
+
 ## 👨‍💻 Linguagens e ferramentas que conheço:
 
 > <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" title="Python" alt=Python width="30">
