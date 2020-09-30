@@ -28,8 +28,6 @@
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" alt=FLUTTER width="30">
 > <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30" >
 
-<br>
-
 ## 🧮 Estatísticas do GitHub:
 
 <img src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" 
