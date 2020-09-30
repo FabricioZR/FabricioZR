@@ -1,6 +1,6 @@
 <h2>Fabrício Romani</h2>
 <img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" title="Um gif muito foda do Rick Sanchez!"
-    style = "float: right; margin-left: 0px; width=300px">
+    style = "float: left; margin-right: 0px; width=300px">
 <h6>Toda manhã é uma nova oportunidade, de voltar para a cama!</h6>
 
 <a href="https://www.instagram.com/fabricioromanii/" target="_blank"><img src="./insta.png" title="Instagram" width="40px"
