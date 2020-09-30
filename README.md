@@ -32,5 +32,5 @@
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark" title="Quais ferramentas eu mais uso"
      />
-<img  src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" title="Status do Github"
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" title="Status do Github"
    width ="490"/>
