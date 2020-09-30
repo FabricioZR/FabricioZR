@@ -31,7 +31,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&hide_border=true&theme=dark"
 alt = "Git status"
-title="Meu status do github"&
+title="Meu status do github"
 style = "float: right; margin-left: 0px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&hide_border=true&theme=dark"
      alt = "Git status" 
