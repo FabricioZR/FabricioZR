@@ -29,13 +29,10 @@
 
 ## 🧮 Estatísticas do GitHub:
 
-<img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark" title="Quais ferramentas eu mais uso"
-style="margin-right: 5px;"
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark" title="Quais ferramentas eu mais uso"
+
      />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" title="Status do Github"
-   width ="490" style="margin-right: 5px;"/>
 
-# ![logo](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark)
-
-# ![logo](https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" title="Status do Github"
+   width ="490" />
