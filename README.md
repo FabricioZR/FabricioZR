@@ -7,8 +7,10 @@
         height="40px"></a>
 <a href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" target="_blank"><img src="./linkedin.png" title="Linkedin" width="40px"
         height="40px"></a>
-<a href="https://github.com/FabricioZR" target="_blank"><img src="./github.png" title="Github" width="40px"
-        height="40px"></a>
+
+> <img src="./github.png" href="https://github.com/FabricioZR" target="\_blank" title="Github" width="40px"
+
+        height="40px">
 
 <hr>
 
