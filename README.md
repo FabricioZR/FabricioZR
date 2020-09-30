@@ -10,13 +10,11 @@
 <a href="https://github.com/FabricioZR" target="_blank"><img src="./github.png" title="Github" width="40px"
         height="40px"></a>
 
-<br>
 <hr>
 
 <h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a>!</h3>
 
 <hr>
-<br>
 
 ## 👨‍💻 Linguagens e ferramentas que conheço:
 
