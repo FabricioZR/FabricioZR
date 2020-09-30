@@ -15,7 +15,7 @@
 <h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a>!</h3>
 
 <hr>
-
+<br>
 ## 👨‍💻 Linguagens e ferramentas que conheço:
 
 > <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" title="Python" alt=Python width="30">
@@ -32,8 +32,10 @@
 ## 🧮 Estatísticas do GitHub:
 
 <img src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark" 
-     alt = "Ícone Markdown Monster" 
+     alt = "Git status" 
+     title="Meu status do github"
      style = "float: right; margin-left: 0px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
-     alt = "Ícone Markdown Monster" 
+     alt = "Git status" 
+     title ="As linguagens que eu mais uso"
      style = "float: left; margin-right: 0px;" />
