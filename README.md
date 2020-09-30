@@ -35,7 +35,6 @@
      alt = "Git status" 
      title="Meu status do github"
      style = "float: right; margin-left: 0px;" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark"
      alt = "Git status" 
      title ="As linguagens que eu mais uso"
