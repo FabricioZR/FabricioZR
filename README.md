@@ -3,9 +3,12 @@
     align="right"  width="300px">
 <h3>Toda manhã é uma nova oportunidade, de voltar para a cama!</h3>
 
+## 🔥 Redes Sociais:
+
 > <img src="./github.png" href="https://github.com/FabricioZR" target="\_blank" title="Github" width="40px" height="40px">
 > <img src="./insta.png" href="https://www.instagram.com/fabricioromanii/" target="\_blank" title="Github" width="40px" height="40px">
 > <img src="./linkedin.png" href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" target="\_blank" title="Github" width="40px" height="40px">
+> <img src="./twitter.png" href="https://twitter.com/fabricioromanii" target="\_blank" title="Github" width="40px" height="40px">
 
 <hr>
 
