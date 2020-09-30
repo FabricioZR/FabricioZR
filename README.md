@@ -13,6 +13,8 @@
         height="40px">
 
 <hr>
+[](./linkedin.png)
+[](./linkedin.png)
 
 <h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a> !</h3>
 
