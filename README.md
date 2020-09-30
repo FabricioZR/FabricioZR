@@ -29,7 +29,7 @@
 
 ## 🧮 Estatísticas do GitHub:
 
-<img align="left"
+<img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioZR&layout=compact&theme=dark&hide_border=true" title="Quais ferramentas eu mais uso"
     height="250px" width="400px" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioZR&show_icons=true&theme=dark&hide_border=true" title="Status do Github"
