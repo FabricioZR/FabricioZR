@@ -18,17 +18,16 @@
 
 ## 👨‍💻 Linguagens e ferramentas que conheço:
 
- <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" title="Python" alt=Python width="30">
- <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt=C width="30">
- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt=Java width="30">
- <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" alt=HTML5 width="30">
- <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" alt=CSS width="30">
- <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Java Script" alt=JS width="30">
- <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" alt=FLUTTER width="30">
- <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30" >
+> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" title="Python" alt=Python width="30">
+> <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt=C width="30">
+> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt=Java width="30">
+> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" alt=HTML5 width="30">
+> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" alt=CSS width="30">
+> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Java Script" alt=JS width="30">
+> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" alt=FLUTTER width="30">
+> <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30" >
 
 <hr>
-<br>
 
 ## 🧮 Estatísticas do GitHub:
 
