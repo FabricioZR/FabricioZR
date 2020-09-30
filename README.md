@@ -8,13 +8,9 @@
 <a href="https://www.linkedin.com/in/fabricio-zanotto-787629178/" target="_blank"><img src="./linkedin.png" title="Linkedin" width="40px"
         height="40px"></a>
 
-> <img src="./github.png" href="https://github.com/FabricioZR" target="\_blank" title="Github" width="40px"
-
-        height="40px">
+<img src="./github.png" href="https://github.com/FabricioZR" target="\_blank" title="Github" width="40px" height="40px">
 
 <hr>
-[](./linkedin.png)
-[](./linkedin.png)
 
 <h3>Faço parte da <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a> !</h3>
 
