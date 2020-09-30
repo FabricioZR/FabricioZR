@@ -1,6 +1,6 @@
 <h2>Fabrício Romani</h2>
 <img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" title="Um gif muito foda do Rick Sanchez!"
-    style = "float: right; margin-left: 100%; width=200px">
+   style = "float: left; margin-right: 0px;" />
 <h6>Toda manhã é uma nova oportunidade, de voltar para a cama!</h6>
 
 <a href="https://www.instagram.com/fabricioromanii/" target="_blank"><img src="./insta.png" title="Instagram" width="40px"
@@ -28,7 +28,7 @@
 > <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" alt=FLUTTER width="30">
 > <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30" >
 
-<br>
+ <br>
 
 ## 🧮 Estatísticas do GitHub:
 
