@@ -16,14 +16,14 @@
 
 ## 👨‍💻 Linguagens e ferramentas que conheço:
 
-> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" title="Python" alt=Python width="30">
-> <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt=C width="30">
-> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt=Java width="30">
-> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" alt=HTML5 width="30">
-> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" alt=CSS width="30">
-> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Java Script" alt=JS width="30">
-> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" alt=FLUTTER width="30">
-> <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png" title="Ionic" alt=IONIC width="30" >
+[<img src="./python.png" width="40" height="40" title="Python" alt=Python>](https://www.python.org/)
+[<img src="./c.png" width="40" height="40" title="C" alt=C>](https://www.learn-c.org/)
+[<img src="./java.png" width="40" height="40" title="Java" alt=Java>](https://www.java.com/pt-BR/)
+[<img src="./html.png" width="40" height="40" title="HTML5" alt=HTML5>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img src="./css.png" width="40" height="40" title="CSS3" alt=CSS >](https://www.w3schools.com/css/)
+[<img src="./js.png" width="40" height="40" title="Java Script" alt=JS>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="./flutter.png" width="40" height="40" title="Flutter" alt=FLUTTER>](https://flutter.dev/)
+[<img src="./ionic.png" width="40" height="40" title="Ionic" alt=IONIC>](https://ionicframework.com/)
 
 <hr>
 
