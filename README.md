@@ -4,6 +4,9 @@
 <h3>Toda manhã é uma nova oportunidade, de voltar para a cama!</h3>
 
 > [<img src="./github.png">](https://github.com/FabricioZR)
+> [<img src="./insta.png">](https://www.instagram.com/fabricioromanii/)
+> [<img src="./linkedin.png">](https://www.linkedin.com/in/fabricio-zanotto-787629178/)
+> [<img src="./twitter.png">](https://twitter.com/fabricioromanii)
 
 > <img src="./github.png" href="https://github.com/FabricioZR" target="\_blank" title="Github" width="40px" height="40px">
 > <img src="./insta.png" href="https://www.instagram.com/fabricioromanii/" target="\_blank" title="Insta" width="40px" height="40px">
