@@ -10,7 +10,7 @@
 
 <hr>
 
-<h3>Diretor na <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a> (Empresa Júnior de Ciência da Computação)!</h3>
+<h3>Diretor na <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a> (Empresa Júnior de Ciência da Computação - UFFS)</h3>
 
 <hr>
 
