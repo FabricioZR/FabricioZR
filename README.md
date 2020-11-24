@@ -1,7 +1,7 @@
 <h2>Fabrício Romani</h2>
 <img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" title="Um gif muito foda do Rick Sanchez!"
     align="right"  width="300px">
-<h3>Toda manhã é uma nova oportunidade, de voltar para a cama!</h3>
+<h3>Em construção</h3>
 
 [<img src="./github.png" width="40" height="40">](https://github.com/fabricioromanii)
 [<img src="./insta.png" width="40" height="40">](https://www.instagram.com/fabricioromanii/)
@@ -14,7 +14,7 @@
 
 <hr>
 
- 👨‍💻 Linguagens e ferramentas que conheço:
+ <h2>👨‍💻 Linguagens e ferramentas que conheço:</h2>
 
 [<img src="./python.png" width="40" height="40" title="Python" alt=Python>](https://www.python.org/)
 [<img src="./c.png" width="40" height="40" title="C" alt=C>](https://www.learn-c.org/)
@@ -27,7 +27,7 @@
 
 <hr>
 
-🧮 Estatísticas do GitHub:
+<h2>🧮 Estatísticas do GitHub:</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fabricioromanii&show_icons=true&hide_border=true&theme=dark"
 alt = "Git status"
