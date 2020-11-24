@@ -1,7 +1,7 @@
 <h2>Fabrício Romani</h2>
 <img src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" title="Um gif muito foda do Rick Sanchez!"
     align="right"  width="300px">
-<h3>Em construção</h3>
+<h3>Toda manhã é uma nova oportunidade, de voltar para a cama!</h3>
 
 [<img src="./github.png" width="40" height="40">](https://github.com/fabricioromanii)
 [<img src="./insta.png" width="40" height="40">](https://www.instagram.com/fabricioromanii/)
