@@ -14,7 +14,7 @@
 
 <hr>
 
-## 👨‍💻 Linguagens e ferramentas que conheço:
+ 👨‍💻 Linguagens e ferramentas que conheço:
 
 [<img src="./python.png" width="40" height="40" title="Python" alt=Python>](https://www.python.org/)
 [<img src="./c.png" width="40" height="40" title="C" alt=C>](https://www.learn-c.org/)
@@ -27,7 +27,7 @@
 
 <hr>
 
-## 🧮 Estatísticas do GitHub:
+🧮 Estatísticas do GitHub:
 
 <img src="https://github-readme-stats.vercel.app/api?username=fabricioromanii&show_icons=true&hide_border=true&theme=dark"
 alt = "Git status"
