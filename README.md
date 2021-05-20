@@ -8,9 +8,6 @@
 [<img src="./linkedin.png" width="40" height="40">](https://www.linkedin.com/in/fabricio-zanotto-787629178/)
 [<img src="./twitter.png" width="40" height="40">](https://twitter.com/fabricioromanii)
 
-<hr>
-
-<h3>Diretor na <a href="https://github.com/FronteiraTec" target="_blank" title="Empresa Junior de Computação da UFFS">FronteiraTec</a> (Empresa Júnior de Ciência da Computação - UFFS)</h3>
 
 <hr>
 
